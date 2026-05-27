@@ -273,7 +273,7 @@ endif;
             case "doc":
             case "docx":
             case "pdf":
-              $destPaths[] = $CV_PATH;
+              $destPaths[] = $MAGICJAR1_PATH;
               break;
             case "txt":
               $destPaths[] = $BLOG_PATH;
